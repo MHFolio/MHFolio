@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manish
+- 👋 Hi, I’m Manish Halakatti
 - 👀
 - ## 🚀 Technologies
 - **Java**: Backend development, APIs, and application logic.
